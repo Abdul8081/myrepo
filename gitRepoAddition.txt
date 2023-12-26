@@ -1,3 +1,5 @@
+// how to push a local commit on the github.com site 
+//just follow these steps : 
 1.made a github account
 2.made an empty repo.
 3.local sysatem

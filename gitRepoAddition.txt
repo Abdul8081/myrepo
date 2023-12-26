@@ -1,0 +1,12 @@
+1.made a github account
+2.made an empty repo.
+3.local sysatem
+	3.1 git config --global user.name "your user name"
+	3.2 git config --global user.email "<your email id"
+4.git push -u origin master
+//it will give error
+// we have to generarte a token
+for that go to the follow these steps
+go to the github.com->setting-> developer setting->personal access tocken->Token(classic)
+->genereate token-> generate new token -> note(access note) ->  expiration(no expiration)->tick all the given boxes->generate token ->copy url ->paste at the place of Tocken asking
+//when you are going to push on to the github.com
